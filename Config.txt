@@ -1,0 +1,5 @@
+linear_velocity 0.2
+reverse_velocity 0.3
+angular_velocity 1.0
+reverse_treshold 0.3
+smooth_turn_treshold 0.5

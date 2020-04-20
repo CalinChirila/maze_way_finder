@@ -1,0 +1,8 @@
+<launch>
+    <node 
+        pkg="maze_way_finder"
+        type="manual_control"
+        name="manual_control_node"
+        output="screen"
+    />
+</launch>

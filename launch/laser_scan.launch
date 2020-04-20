@@ -1,0 +1,8 @@
+<launch>
+    <node
+        pkg="maze_way_finder"
+        name="laser_scan_node"
+        type="laser_scan"
+        output="screen">
+    </node>
+</launch>
